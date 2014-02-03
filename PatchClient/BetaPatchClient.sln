@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BetaPatchClient", "BetaPatchClient.vcproj", "{A28F79C6-33A7-4347-B38C-16299665A51D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A28F79C6-33A7-4347-B38C-16299665A51D}.Debug.ActiveCfg = Debug|Win32
+		{A28F79C6-33A7-4347-B38C-16299665A51D}.Debug.Build.0 = Debug|Win32
+		{A28F79C6-33A7-4347-B38C-16299665A51D}.Release.ActiveCfg = Release|Win32
+		{A28F79C6-33A7-4347-B38C-16299665A51D}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

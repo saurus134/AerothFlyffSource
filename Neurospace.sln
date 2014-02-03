@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "Beast", "Beast\Beast.dsp", "{2EBFAA43-8F1F-465A-A412-2E1FFDDDB10D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Neuz", "Neuz\Neuz.vcproj", "{C08EFDF8-BA7F-4F07-93D4-56BC99926FD9}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		NoGameguard = NoGameguard
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C08EFDF8-BA7F-4F07-93D4-56BC99926FD9}.Debug.ActiveCfg = Debug|Win32
+		{C08EFDF8-BA7F-4F07-93D4-56BC99926FD9}.Debug.Build.0 = Debug|Win32
+		{C08EFDF8-BA7F-4F07-93D4-56BC99926FD9}.NoGameguard.ActiveCfg = NoGameguard|Win32
+		{C08EFDF8-BA7F-4F07-93D4-56BC99926FD9}.NoGameguard.Build.0 = NoGameguard|Win32
+		{C08EFDF8-BA7F-4F07-93D4-56BC99926FD9}.Release.ActiveCfg = Release|Win32
+		{C08EFDF8-BA7F-4F07-93D4-56BC99926FD9}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
